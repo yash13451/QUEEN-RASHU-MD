@@ -1,0 +1,29 @@
+{
+  "name": "QUEEN-RASHU-MD",
+  "description": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ Qᴜᴇᴇɴ ʀᴀꜱʜᴜ ᴍᴅ 🍃",
+  "logo": "https://i.ibb.co/g98HkMY/8188.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+    "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true,
+      "value": ""
+      
+    },
+    "MONGODB": {
+      "description": "Put your MongoDB Database URL here.",
+      "required": true,
+      "default": ""
+    }
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
