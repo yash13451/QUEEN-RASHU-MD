@@ -27,7 +27,7 @@
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FNipunHarshana1119%2FQUEEN-RASHU-MD-V1.git)
+ [![Deploy on Heroku](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FNipunHarshanaOfc0715%2FQUEEN-RASHU-MD.git)
 
    </details>
 </P>
